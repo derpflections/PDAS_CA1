@@ -1,0 +1,74 @@
+# Metadata for Enrolment - Secondary, By Level and Course
+---
+Identifier: '86a6d320-42b9-4ffb-99a1-c0a0b6ae9db4'
+Name: 'enrolment-secondary-by-level'
+Title: 'Enrolment - Secondary, By Level and Course'
+Description:
+  - '- Secondary enrolment by level and by course.'
+  - 'As cohorts progress over the years, the numbers across courses may fluctuate
+    as students have opportunities to transfer laterally across courses'
+  - ''
+  - 'Note(s):'
+  - ''
+  - '1) Special and Express streams have been merged since the 2008 Secondary 1 cohort.'
+  - '2) Normal(Tech) include students on the ITE Skill Certificate (ISC) course.'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+Topics:
+  - 'Education'
+Keywords:
+  - 'Enrolment'
+  - 'Schools'
+  - 'Secondary Education'
+  - 'Students'
+Publisher:
+  Name: 'Ministry of Education'
+  Admin 1:
+    Name: 'Chng Lung Huang'
+    Department: 'Research & Management Information Division'
+    Email: 'moe_management_information@moe.gov.sg'
+Sources:
+  - 'Ministry of Education'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1980-01-01 to 2020-12-31'
+Last Updated: '2021-10-15T06:51:15.439053'
+Resources:
+  -
+    Identifier: 'e30f699f-a246-4016-8bba-d83366da46c6'
+    Title: 'Enrolment - Secondary By Level and Course'
+    Url: 'https://storage.data.gov.sg/enrolment-secondary-by-level/resources/enrolment-secondary-by-level-and-course-2021-10-15T06-51-15Z.csv'
+    Format: 'CSV'
+    Coverage: '1980-01-01 to 2020-12-31'
+    Last Updated: '2021-10-15T06:51:15.056098'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level'
+        Title: 'Level'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'course'
+        Title: 'Course'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'sex'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'enrolment_secondary'
+        Title: 'Enrolment'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Students'

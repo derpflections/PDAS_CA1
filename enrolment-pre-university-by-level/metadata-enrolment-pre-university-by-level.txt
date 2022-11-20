@@ -1,0 +1,67 @@
+# Metadata for Enrolment - Pre-University, By Level and Course
+---
+Identifier: '88a6bf48-0072-4682-bce6-5781f8633397'
+Name: 'enrolment-pre-university-by-level'
+Title: 'Enrolment - Pre-University, By Level and Course'
+Description:
+  - '- Pre-U enrolment by level and course.'
+  - '- Since 2006, as part of a new broad-based JC education, students are required
+    to do at least one subject outside their area of specialization. For example,
+    a Science course student is required to take at least one Humanities subject and
+    an Arts course student is required to take at least one Science subject.'
+Topics:
+  - 'Education'
+Keywords:
+  - 'Enrolment'
+  - 'Pre-University'
+  - 'Schools'
+  - 'Students'
+  - 'Tertiary Education'
+Publisher:
+  Name: 'Ministry of Education'
+  Admin 1:
+    Name: 'Chng Lung Huang'
+    Department: 'Research & Management Information Division'
+    Email: 'moe_management_information@moe.gov.sg'
+Sources:
+  - 'Ministry of Education'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1980-01-01 to 2020-12-31'
+Last Updated: '2021-10-15T06:35:31.537891'
+Resources:
+  -
+    Identifier: '8b436e71-ef7d-4a92-86e5-dfdebdc25d8c'
+    Title: 'Enrolment - Pre-University by Level and Course'
+    Url: 'https://storage.data.gov.sg/enrolment-pre-university-by-level/resources/enrolment-pre-university-by-level-and-course-2021-10-15T06-35-31Z.csv'
+    Format: 'CSV'
+    Coverage: '1980-01-01 to 2020-12-31'
+    Last Updated: '2021-10-15T06:35:31.095585'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level'
+        Title: 'Level'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'course'
+        Title: 'Course'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'sex'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'enrolment_preu'
+        Title: 'Enrolment'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: '"-" : Data is negligible or not significant'

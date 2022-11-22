@@ -1,0 +1,73 @@
+# Metadata for ITE - Intake, Enrolment and Graduates by Course
+---
+Identifier: '5453adfd-8c37-47b7-860a-19101f355be6'
+Name: 'ite-intake-enrolment-and-graduates-by-course'
+Title: 'ITE - Intake, Enrolment and Graduates by Course'
+Description:
+  - 'Intake, enrolment and graduates of ITE by course'
+  - ''
+  - 'Notes:'
+  - '1)  Institute of Technical Education (ITE) figures include full-time Nitec, Higher
+    Nitec and Diploma programmes but exclude apprentices.'
+  - '2)  Courses are classified by school.'
+Topics:
+  - 'Education'
+Keywords:
+  - 'Enrolment'
+  - 'Graduates'
+  - 'ITE'
+  - 'Intake'
+  - 'Post-secondary Education'
+Publisher:
+  Name: 'Ministry of Education'
+  Admin 1:
+    Name: 'Chng Lung Huang'
+    Department: 'Research & Management Information Division'
+    Email: 'moe_management_information@moe.gov.sg'
+Sources:
+  - 'Ministry of Education'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2009-01-01 to 2020-12-31'
+Last Updated: '2021-10-15T07:36:50.433045'
+Resources:
+  -
+    Identifier: '0e005227-6e99-4a99-b608-d8f1c1606967'
+    Title: 'ITE - Intake, Enrolment and Graduates by Course'
+    Url: 'https://storage.data.gov.sg/ite-intake-enrolment-and-graduates-by-course/resources/ite-intake-enrolment-and-graduates-by-course-2021-10-15T07-36-50Z.csv'
+    Format: 'CSV'
+    Coverage: '2009-01-01 to 2020-12-31'
+    Description: 'Intake, enrolment and graduates of ITE by course'
+    Last Updated: '2021-10-15T07:36:50.049065'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'sex'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'course'
+        Title: 'Course'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'intake'
+        Title: 'Intake (number)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'enrolment'
+        Title: 'Enrolment (number)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'graduates'
+        Title: 'Graduates (number)'
+        Type: 'text'
+        Sub Type: 'general'

@@ -1139,81 +1139,81 @@ year,level,course,sex,enrolment_preu
 2017,Pre-University 3,Commerce,F,69
 2017,Pre-University 3,Science,MF,92
 2017,Pre-University 3,Science,F,51
-2018,Junior College 1,1,MF,2302
-2018,Junior College 1,1,F,1589
-2018,Junior College 1,2,MF,11720
-2018,Junior College 1,2,F,5851
-2018,Junior College 2,1,MF,2267
-2018,Junior College 2,1,F,1583
-2018,Junior College 2,2,MF,11811
-2018,Junior College 2,2,F,5943
-2018,Pre-University 1,1,MF,80
-2018,Pre-University 1,1,F,49
-2018,Pre-University 1,2,MF,175
-2018,Pre-University 1,2,F,96
-2018,Pre-University 1,4,MF,121
-2018,Pre-University 1,4,F,72
-2018,Pre-University 2,1,MF,78
-2018,Pre-University 2,1,F,58
-2018,Pre-University 2,2,MF,135
-2018,Pre-University 2,2,F,75
-2018,Pre-University 2,4,MF,145
-2018,Pre-University 2,4,F,83
-2018,Pre-University 3,1,MF,50
-2018,Pre-University 3,1,F,41
-2018,Pre-University 3,2,MF,65
-2018,Pre-University 3,2,F,31
-2018,Pre-University 3,4,MF,63
-2018,Pre-University 3,4,F,32
-2019,Junior College 1,1,MF,2167
-2019,Junior College 1,1,F,1518
-2019,Junior College 1,2,MF,11129
-2019,Junior College 1,2,F,5623
-2019,Junior College 2,1,MF,2122
-2019,Junior College 2,1,F,1477
-2019,Junior College 2,2,MF,11234
-2019,Junior College 2,2,F,5565
-2019,Pre-University 1,1,MF,68
-2019,Pre-University 1,1,F,48
-2019,Pre-University 1,2,MF,212
-2019,Pre-University 1,2,F,126
-2019,Pre-University 1,4,MF,70
-2019,Pre-University 1,4,F,49
-2019,Pre-University 2,1,MF,48
-2019,Pre-University 2,1,F,27
-2019,Pre-University 2,2,MF,121
-2019,Pre-University 2,2,F,65
-2019,Pre-University 2,4,MF,95
-2019,Pre-University 2,4,F,50
-2019,Pre-University 3,1,MF,61
-2019,Pre-University 3,1,F,48
-2019,Pre-University 3,2,MF,88
-2019,Pre-University 3,2,F,46
-2019,Pre-University 3,4,MF,117
-2019,Pre-University 3,4,F,69
-2020,Junior College 1,1,MF,1998
-2020,Junior College 1,1,F,1405
-2020,Junior College 1,2,MF,10604
-2020,Junior College 1,2,F,5160
-2020,Junior College 2,1,MF,2037
-2020,Junior College 2,1,F,1441
-2020,Junior College 2,2,MF,10586
-2020,Junior College 2,2,F,5320
-2020,Pre-University 1,1,MF,66
-2020,Pre-University 1,1,F,45
-2020,Pre-University 1,2,MF,234
-2020,Pre-University 1,2,F,132
-2020,Pre-University 1,4,MF,46
-2020,Pre-University 1,4,F,28
-2020,Pre-University 2,1,MF,49
-2020,Pre-University 2,1,F,33
-2020,Pre-University 2,2,MF,114
-2020,Pre-University 2,2,F,70
-2020,Pre-University 2,4,MF,57
-2020,Pre-University 2,4,F,36
-2020,Pre-University 3,1,MF,40
-2020,Pre-University 3,1,F,24
-2020,Pre-University 3,2,MF,91
-2020,Pre-University 3,2,F,45
-2020,Pre-University 3,4,MF,83
-2020,Pre-University 3,4,F,44
+2018,Junior College 1,Arts,MF,2302
+2018,Junior College 1,Arts,F,1589
+2018,Junior College 1,Science,MF,11720
+2018,Junior College 1,Science,F,5851
+2018,Junior College 2,Arts,MF,2267
+2018,Junior College 2,Arts,F,1583
+2018,Junior College 2,Science,MF,11811
+2018,Junior College 2,Science,F,5943
+2018,Pre-University 1,Arts,MF,80
+2018,Pre-University 1,Arts,F,49
+2018,Pre-University 1,Science,MF,175
+2018,Pre-University 1,Science,F,96
+2018,Pre-University 1,Commerce,MF,121
+2018,Pre-University 1,Commerce,F,72
+2018,Pre-University 2,Arts,MF,78
+2018,Pre-University 2,Arts,F,58
+2018,Pre-University 2,Science,MF,135
+2018,Pre-University 2,Science,F,75
+2018,Pre-University 2,Commerce,MF,145
+2018,Pre-University 2,Commerce,F,83
+2018,Pre-University 3,Arts,MF,50
+2018,Pre-University 3,Arts,F,41
+2018,Pre-University 3,Science,MF,65
+2018,Pre-University 3,Science,F,31
+2018,Pre-University 3,Commerce,MF,63
+2018,Pre-University 3,Commerce,F,32
+2019,Junior College 1,Arts,MF,2167
+2019,Junior College 1,Arts,F,1518
+2019,Junior College 1,Science,MF,11129
+2019,Junior College 1,Science,F,5623
+2019,Junior College 2,Arts,MF,2122
+2019,Junior College 2,Arts,F,1477
+2019,Junior College 2,Science,MF,11234
+2019,Junior College 2,Science,F,5565
+2019,Pre-University 1,Arts,MF,68
+2019,Pre-University 1,Arts,F,48
+2019,Pre-University 1,Science,MF,212
+2019,Pre-University 1,Science,F,126
+2019,Pre-University 1,Commerce,MF,70
+2019,Pre-University 1,Commerce,F,49
+2019,Pre-University 2,Arts,MF,48
+2019,Pre-University 2,Arts,F,27
+2019,Pre-University 2,Science,MF,121
+2019,Pre-University 2,Science,F,65
+2019,Pre-University 2,Commerce,MF,95
+2019,Pre-University 2,Commerce,F,50
+2019,Pre-University 3,Arts,MF,61
+2019,Pre-University 3,Arts,F,48
+2019,Pre-University 3,Science,MF,88
+2019,Pre-University 3,Science,F,46
+2019,Pre-University 3,Commerce,MF,117
+2019,Pre-University 3,Commerce,F,69
+2020,Junior College 1,Arts,MF,1998
+2020,Junior College 1,Arts,F,1405
+2020,Junior College 1,Science,MF,10604
+2020,Junior College 1,Science,F,5160
+2020,Junior College 2,Arts,MF,2037
+2020,Junior College 2,Arts,F,1441
+2020,Junior College 2,Science,MF,10586
+2020,Junior College 2,Science,F,5320
+2020,Pre-University 1,Arts,MF,66
+2020,Pre-University 1,Arts,F,45
+2020,Pre-University 1,Science,MF,234
+2020,Pre-University 1,Science,F,132
+2020,Pre-University 1,Commerce,MF,46
+2020,Pre-University 1,Commerce,F,28
+2020,Pre-University 2,Arts,MF,49
+2020,Pre-University 2,Arts,F,33
+2020,Pre-University 2,Science,MF,114
+2020,Pre-University 2,Science,F,70
+2020,Pre-University 2,Commerce,MF,57
+2020,Pre-University 2,Commerce,F,36
+2020,Pre-University 3,Arts,MF,40
+2020,Pre-University 3,Arts,F,24
+2020,Pre-University 3,Science,MF,91
+2020,Pre-University 3,Science,F,45
+2020,Pre-University 3,Commerce,MF,83
+2020,Pre-University 3,Commerce,F,44

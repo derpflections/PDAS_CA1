@@ -1,8 +1,8 @@
 year,sex,course,intake,enrolment,graduates
 2005,MF,Applied Arts,1128,2593,550
 2005,F,Applied Arts,687,1538,302
-2005,MF,"Architecture, Building & Real Estate",515,1466,425
-2005,F,"Architecture, Building & Real Estate",312,870,249
+2005,MF,Architecture & Building & Real Estate,515,1466,425
+2005,F,Architecture & Building & Real Estate,312,870,249
 2005,MF,Business & Administration,3483,10143,3044
 2005,F,Business & Administration,2389,7038,2270
 2005,MF,Education,189,484,111
@@ -19,14 +19,14 @@ year,sex,course,intake,enrolment,graduates
 2005,F,Law,83,221,71
 2005,MF,Mass Communication,448,1426,419
 2005,F,Mass Communication,324,1029,282
-2005,MF,"Natural, Physical & Mathematical Sciences",1209,2844,768
-2005,F,"Natural, Physical & Mathematical Sciences",712,1678,447
+2005,MF,Natural & Physical & Mathematical Sciences,1209,2844,768
+2005,F,Natural & Physical & Mathematical Sciences,712,1678,447
 2005,MF,Services,140,469,188
 2005,F,Services,68,173,35
 2006,MF,Applied Arts,1300,3255,542
 2006,F,Applied Arts,742,1894,319
-2006,MF,"Architecture, Building & Real Estate",596,1622,394
-2006,F,"Architecture, Building & Real Estate",342,955,233
+2006,MF,Architecture & Building & Real Estate,596,1622,394
+2006,F,Architecture & Building & Real Estate,342,955,233
 2006,MF,Business & Administration,3944,10869,3046
 2006,F,Business & Administration,2487,7225,2208
 2006,MF,Education,266,614,131
@@ -43,14 +43,14 @@ year,sex,course,intake,enrolment,graduates
 2006,F,Law,70,221,63
 2006,MF,Mass Communication,450,1428,416
 2006,F,Mass Communication,310,1019,296
-2006,MF,"Natural, Physical & Mathematical Sciences",1184,3063,761
-2006,F,"Natural, Physical & Mathematical Sciences",684,1777,460
+2006,MF,Natural & Physical & Mathematical Sciences,1184,3063,761
+2006,F,Natural & Physical & Mathematical Sciences,684,1777,460
 2006,MF,Services,209,532,166
 2006,F,Services,94,211,50
 2007,MF,Applied Arts,1455,3801,707
 2007,F,Applied Arts,865,2221,409
-2007,MF,"Architecture, Building & Real Estate",624,1742,449
-2007,F,"Architecture, Building & Real Estate",363,1010,273
+2007,MF,Architecture & Building & Real Estate,624,1742,449
+2007,F,Architecture & Building & Real Estate,363,1010,273
 2007,MF,Business & Administration,4558,12098,3243
 2007,F,Business & Administration,2909,7839,2247
 2007,MF,Education,309,765,159
@@ -67,14 +67,14 @@ year,sex,course,intake,enrolment,graduates
 2007,F,Law,81,226,65
 2007,MF,Mass Communication,530,1428,512
 2007,F,Mass Communication,354,989,377
-2007,MF,"Natural, Physical & Mathematical Sciences",1367,3547,764
-2007,F,"Natural, Physical & Mathematical Sciences",846,2095,453
+2007,MF,Natural & Physical & Mathematical Sciences,1367,3547,764
+2007,F,Natural & Physical & Mathematical Sciences,846,2095,453
 2007,MF,Services,240,627,164
 2007,F,Services,86,247,51
 2008,MF,Applied Arts,1646,4176,963
 2008,F,Applied Arts,918,2355,582
-2008,MF,"Architecture, Building & Real Estate",623,1774,465
-2008,F,"Architecture, Building & Real Estate",327,982,292
+2008,MF,Architecture & Building & Real Estate,623,1774,465
+2008,F,Architecture & Building & Real Estate,327,982,292
 2008,MF,Business & Administration,5827,14812,3376
 2008,F,Business & Administration,3524,9221,2315
 2008,MF,Education,194,547,184
@@ -91,14 +91,14 @@ year,sex,course,intake,enrolment,graduates
 2008,F,Law,66,204,78
 2008,MF,Mass Communication,542,1539,435
 2008,F,Mass Communication,378,1036,318
-2008,MF,"Natural, Physical & Mathematical Sciences",1354,3711,978
-2008,F,"Natural, Physical & Mathematical Sciences",833,2207,568
+2008,MF,Natural & Physical & Mathematical Sciences,1354,3711,978
+2008,F,Natural & Physical & Mathematical Sciences,833,2207,568
 2008,MF,Services,287,725,158
 2008,F,Services,109,294,62
 2009,MF,Applied Arts,1690,4681,1004
 2009,F,Applied Arts,942,2629,576
-2009,MF,"Architecture, Building & Real Estate",545,1724,540
-2009,F,"Architecture, Building & Real Estate",291,936,307
+2009,MF,Architecture & Building & Real Estate,545,1724,540
+2009,F,Architecture & Building & Real Estate,291,936,307
 2009,MF,Business & Administration,5715,16024,3942
 2009,F,Business & Administration,3524,9947,2533
 2009,MF,Education,206,569,177
@@ -115,14 +115,14 @@ year,sex,course,intake,enrolment,graduates
 2009,F,Law,82,222,55
 2009,MF,Mass Communication,685,1743,435
 2009,F,Mass Communication,471,1186,303
-2009,MF,"Natural, Physical & Mathematical Sciences",1503,3977,1044
-2009,F,"Natural, Physical & Mathematical Sciences",917,2416,592
+2009,MF,Natural & Physical & Mathematical Sciences,1503,3977,1044
+2009,F,Natural & Physical & Mathematical Sciences,917,2416,592
 2009,MF,Services,276,773,203
 2009,F,Services,127,330,82
 2010,MF,Applied Arts,1939,5169,1193
 2010,F,Applied Arts,1074,2872,703
-2010,MF,"Architecture, Building & Real Estate",603,1734,539
-2010,F,"Architecture, Building & Real Estate",330,923,318
+2010,MF,Architecture & Building & Real Estate,603,1734,539
+2010,F,Architecture & Building & Real Estate,330,923,318
 2010,MF,Business & Administration,5707,16967,4516
 2010,F,Business & Administration,3567,10455,2934
 2010,MF,Education,271,660,174
@@ -139,14 +139,14 @@ year,sex,course,intake,enrolment,graduates
 2010,F,Law,85,225,74
 2010,MF,Mass Communication,664,1940,377
 2010,F,Mass Communication,485,1347,254
-2010,MF,"Natural, Physical & Mathematical Sciences",1534,4346,1070
-2010,F,"Natural, Physical & Mathematical Sciences",993,2686,663
+2010,MF,Natural & Physical & Mathematical Sciences,1534,4346,1070
+2010,F,Natural & Physical & Mathematical Sciences,993,2686,663
 2010,MF,Services,266,768,237
 2010,F,Services,118,340,96
 2011,MF,Applied Arts,1990,5607,1343
 2011,F,Applied Arts,1130,3104,770
-2011,MF,"Architecture, Building & Real Estate",775,1880,565
-2011,F,"Architecture, Building & Real Estate",459,1063,297
+2011,MF,Architecture & Building & Real Estate,775,1880,565
+2011,F,Architecture & Building & Real Estate,459,1063,297
 2011,MF,Business & Administration,5789,17215,5306
 2011,F,Business & Administration,3510,10571,3271
 2011,MF,Education,276,736,183
@@ -163,14 +163,14 @@ year,sex,course,intake,enrolment,graduates
 2011,F,Law,77,235,53
 2011,MF,Mass Communication,587,1806,511
 2011,F,Mass Communication,418,1283,348
-2011,MF,"Natural, Physical & Mathematical Sciences",1587,4620,1178
-2011,F,"Natural, Physical & Mathematical Sciences",984,2846,732
+2011,MF,Natural & Physical & Mathematical Sciences,1587,4620,1178
+2011,F,Natural & Physical & Mathematical Sciences,984,2846,732
 2011,MF,Services,397,914,232
 2011,F,Services,177,412,97
 2012,MF,Applied Arts,2024,5983,1559
 2012,F,Applied Arts,1164,3346,855
-2012,MF,"Architecture, Building & Real Estate",779,2088,512
-2012,F,"Architecture, Building & Real Estate",423,1185,271
+2012,MF,Architecture & Building & Real Estate,779,2088,512
+2012,F,Architecture & Building & Real Estate,423,1185,271
 2012,MF,Business & Administration,6066,17449,5422
 2012,F,Business & Administration,3772,10706,3361
 2012,MF,Education,294,821,196
@@ -187,14 +187,14 @@ year,sex,course,intake,enrolment,graduates
 2012,F,Law,79,232,75
 2012,MF,Mass Communication,628,1695,653
 2012,F,Mass Communication,459,1182,452
-2012,MF,"Natural, Physical & Mathematical Sciences",1639,4735,1391
-2012,F,"Natural, Physical & Mathematical Sciences",1050,2971,845
+2012,MF,Natural & Physical & Mathematical Sciences,1639,4735,1391
+2012,F,Natural & Physical & Mathematical Sciences,1050,2971,845
 2012,MF,Services,424,1052,264
 2012,F,Services,207,499,118
 2013,MF,Applied Arts,2097,5935,1746
 2013,F,Applied Arts,1214,3389,963
-2013,MF,"Architecture, Building & Real Estate",796,2296,630
-2013,F,"Architecture, Building & Real Estate",447,1310,353
+2013,MF,Architecture & Building & Real Estate,796,2296,630
+2013,F,Architecture & Building & Real Estate,447,1310,353
 2013,MF,Business & Administration,6267,18117,5400
 2013,F,Business & Administration,3861,11087,3365
 2013,MF,Education,323,880,262
@@ -211,14 +211,14 @@ year,sex,course,intake,enrolment,graduates
 2013,F,Law,76,218,78
 2013,MF,Mass Communication,661,1850,638
 2013,F,Mass Communication,473,1328,463
-2013,MF,"Natural, Physical & Mathematical Sciences",1602,4765,1469
-2013,F,"Natural, Physical & Mathematical Sciences",992,2980,922
+2013,MF,Natural & Physical & Mathematical Sciences,1602,4765,1469
+2013,F,Natural & Physical & Mathematical Sciences,992,2980,922
 2013,MF,Services,416,1174,260
 2013,F,Services,202,586,117
 2014,MF,Applied Arts,2123,6133,1720
 2014,F,Applied Arts,1183,3448,995
-2014,MF,"Architecture, Building & Real Estate",797,2339,707
-2014,F,"Architecture, Building & Real Estate",471,1329,435
+2014,MF,Architecture & Building & Real Estate,797,2339,707
+2014,F,Architecture & Building & Real Estate,471,1329,435
 2014,MF,Business & Administration,6017,18339,5596
 2014,F,Business & Administration,3799,11355,3394
 2014,MF,Education,333,938,260
@@ -235,14 +235,14 @@ year,sex,course,intake,enrolment,graduates
 2014,F,Law,79,224,66
 2014,MF,Mass Communication,654,1932,555
 2014,F,Mass Communication,491,1413,393
-2014,MF,"Natural, Physical & Mathematical Sciences",1629,4814,1486
-2014,F,"Natural, Physical & Mathematical Sciences",1022,3010,931
+2014,MF,Natural & Physical & Mathematical Sciences,1629,4814,1486
+2014,F,Natural & Physical & Mathematical Sciences,1022,3010,931
 2014,MF,Services,709,2119,599
 2014,F,Services,298,894,238
 2015,MF,Applied Arts,1739,5473,1708
 2015,F,Applied Arts,1021,3186,977
-2015,MF,"Architecture, Building & Real Estate",670,2217,715
-2015,F,"Architecture, Building & Real Estate",390,1283,396
+2015,MF,Architecture & Building & Real Estate,670,2217,715
+2015,F,Architecture & Building & Real Estate,390,1283,396
 2015,MF,Business & Administration,4871,16293,5455
 2015,F,Business & Administration,3062,10062,3384
 2015,MF,Education,340,977,292
@@ -259,14 +259,14 @@ year,sex,course,intake,enrolment,graduates
 2015,F,Law,73,222,71
 2015,MF,Mass Communication,609,2033,644
 2015,F,Mass Communication,456,1496,470
-2015,MF,"Natural, Physical & Mathematical Sciences",1415,4564,1477
-2015,F,"Natural, Physical & Mathematical Sciences",864,2817,919
+2015,MF,Natural & Physical & Mathematical Sciences,1415,4564,1477
+2015,F,Natural & Physical & Mathematical Sciences,864,2817,919
 2015,MF,Services,1117,3707,1194
 2015,F,Services,567,1748,583
 2016,MF,Applied Arts,1721,5236,1783
 2016,F,Applied Arts,1011,3064,1024
-2016,MF,"Architecture, Building & Real Estate",623,2039,743
-2016,F,"Architecture, Building & Real Estate",371,1207,420
+2016,MF,Architecture & Building & Real Estate,623,2039,743
+2016,F,Architecture & Building & Real Estate,371,1207,420
 2016,MF,Business & Administration,4646,15203,5595
 2016,F,Business & Administration,2846,9406,3417
 2016,MF,Education,586,1252,307
@@ -283,14 +283,14 @@ year,sex,course,intake,enrolment,graduates
 2016,F,Law,66,218,68
 2016,MF,Mass Communication,618,1920,701
 2016,F,Mass Communication,457,1436,498
-2016,MF,"Natural, Physical & Mathematical Sciences",1296,4302,1457
-2016,F,"Natural, Physical & Mathematical Sciences",789,2634,904
+2016,MF,Natural & Physical & Mathematical Sciences,1296,4302,1457
+2016,F,Natural & Physical & Mathematical Sciences,789,2634,904
 2016,MF,Services,1071,3482,1239
 2016,F,Services,479,1624,571
 2017,MF,Applied Arts,1885,5291,1682
 2017,F,Applied Arts,1147,3128,1000
-2017,MF,"Architecture, Building & Real Estate",714,1979,736
-2017,F,"Architecture, Building & Real Estate",390,1129,441
+2017,MF,Architecture & Building & Real Estate,714,1979,736
+2017,F,Architecture & Building & Real Estate,390,1129,441
 2017,MF,Business & Administration,4834,14453,5416
 2017,F,Business & Administration,2931,8836,3384
 2017,MF,Education,709,1618,320
@@ -307,36 +307,36 @@ year,sex,course,intake,enrolment,graduates
 2017,F,Law,64,208,72
 2017,MF,Mass Communication,642,1842,697
 2017,F,Mass Communication,475,1368,523
-2017,MF,"Natural, Physical & Mathematical Sciences",1304,3982,1529
-2017,F,"Natural, Physical & Mathematical Sciences",778,2400,955
+2017,MF,Natural & Physical & Mathematical Sciences,1304,3982,1529
+2017,F,Natural & Physical & Mathematical Sciences,778,2400,955
 2017,MF,Services,1074,3310,1192
 2017,F,Services,500,1559,547
-2018,MF,Applied Arts,"1,894","5,424","1,610"
-2018,F,Applied Arts,"1,111","3,215",941
-2018,MF,"Architecture, Building & Real Estate",724,"2,007",614
-2018,F,"Architecture, Building & Real Estate",382,"1,104",370
-2018,MF,Business & Administration,"4,642","14,164","4,784"
-2018,F,Business & Administration,"2,811","8,546","3,006"
-2018,MF,Education,717,"1,989",332
-2018,F,Education,660,"1,843",312
-2018,MF,Engineering Sciences,"6,868","20,645","6,540"
-2018,F,Engineering Sciences,"1,473","4,328","1,543"
-2018,MF,Health Sciences,"2,758","7,856","2,565"
-2018,F,Health Sciences,"2,093","5,909","1,895"
-2018,MF,Humanities & Social Sciences,352,"1,071",310
+2018,MF,Applied Arts,1894,5424,1610
+2018,F,Applied Arts,1111,3215,941
+2018,MF,Architecture & Building & Real Estate,724,2007,614
+2018,F,Architecture & Building & Real Estate,382,1104,370
+2018,MF,Business & Administration,4642,14164,4784
+2018,F,Business & Administration,2811,8546,3006
+2018,MF,Education,717,1989,332
+2018,F,Education,660,1843,312
+2018,MF,Engineering Sciences,6868,20645,6540
+2018,F,Engineering Sciences,1473,4328,1543
+2018,MF,Health Sciences,2758,7856,2565
+2018,F,Health Sciences,2093,5909,1895
+2018,MF,Humanities & Social Sciences,352,1071,310
 2018,F,Humanities & Social Sciences,268,809,233
-2018,MF,Information Technology,"2,820","8,538","2,747"
-2018,F,Information Technology,817,"2,608",996
+2018,MF,Information Technology,2820,8538,2747
+2018,F,Information Technology,817,2608,996
 2018,MF,Law,104,301,124
 2018,F,Law,70,197,76
-2018,MF,Mass Communication,675,"1,917",582
-2018,F,Mass Communication,500,"1,420",437
-2018,MF,"Natural, Physical & Mathematical Sciences","1,232","3,794","1,353"
-2018,F,"Natural, Physical & Mathematical Sciences",773,"2,308",825
-2018,MF,Services,"1,083","3,279","1,053"
-2018,F,Services,436,"1,436",541
+2018,MF,Mass Communication,675,1917,582
+2018,F,Mass Communication,500,1420,437
+2018,MF,Natural & Physical & Mathematical Sciences,1232,3794,1353
+2018,F,Natural & Physical & Mathematical Sciences,773,2308,825
+2018,MF,Services,1083,3279,1053
+2018,F,Services,436,1436,541
 2019,MF,Applied Arts,1776,5489,1580
-2019,MF,"Architecture, Building & Real Estate",634,1991,579
+2019,MF,Architecture & Building & Real Estate,634,1991,579
 2019,MF,Business & Administration,4288,13791,4489
 2019,MF,Education,717,2116,555
 2019,MF,Engineering Sciences,6362,20168,6061
@@ -345,10 +345,10 @@ year,sex,course,intake,enrolment,graduates
 2019,MF,Information Technology,2651,8339,2548
 2019,MF,Law,105,304,96
 2019,MF,Mass Communication,590,1886,601
-2019,MF,"Natural, Physical & Mathematical Sciences",1136,3623,1218
+2019,MF,Natural & Physical & Mathematical Sciences,1136,3623,1218
 2019,MF,Services,896,3076,1050
 2019,F,Applied Arts,1084,3290,934
-2019,F,"Architecture, Building & Real Estate",326,1052,337
+2019,F,Architecture & Building & Real Estate,326,1052,337
 2019,F,Business & Administration,2659,8359,2733
 2019,F,Education,660,1951,522
 2019,F,Engineering Sciences,1409,4316,1271
@@ -357,10 +357,10 @@ year,sex,course,intake,enrolment,graduates
 2019,F,Information Technology,730,2412,843
 2019,F,Law,69,200,61
 2019,F,Mass Communication,437,1396,447
-2019,F,"Natural, Physical & Mathematical Sciences",691,2200,743
+2019,F,Natural & Physical & Mathematical Sciences,691,2200,743
 2019,F,Services,375,1312,469
 2020,MF,Applied Arts,1711,5312,1729
-2020,MF,"Architecture, Building & Real Estate",624,1892,633
+2020,MF,Architecture & Building & Real Estate,624,1892,633
 2020,MF,Business & Administration,4156,13124,4603
 2020,MF,Education,713,2164,713
 2020,MF,Engineering Sciences,5919,19531,6327
@@ -372,7 +372,7 @@ year,sex,course,intake,enrolment,graduates
 2020,MF,Natural & Mathematical Sciences,1109,3037,1201
 2020,MF,Services,791,2928,1008
 2020,F,Applied Arts,1049,3199,1059
-2020,F,"Architecture, Building & Real Estate",329,988,350
+2020,F,Architecture & Building & Real Estate,329,988,350
 2020,F,Business & Administration,2521,7975,2785
 2020,F,Education,663,2001,661
 2020,F,Engineering Sciences,1224,4220,1363
